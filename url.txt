@@ -1,2 +1,2 @@
 GANTI BARIS INI dengan tautan dashboard Streamlit Cloud Anda setelah deploy, contoh:
-https://nama-aplikasi-anda.streamlit.app
+https:https://4i8ymmm7mtkj2sleg9kxuu.streamlit.app/
